@@ -1,0 +1,106 @@
+{
+  "name": "ZephyraTravels - Sri Lankan Inbound Tourism",
+  "short_name": "ZephyraTravels",
+  "description": "Professional Sri Lankan inbound tourism services with certified guides, authentic experiences, and comprehensive travel packages.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6938D3",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "travel",
+    "tourism",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "https://cdn.zephyratravels.com/public/favicon-16x16.avif",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.zephyratravels.com/public/favicon-32x32.avif",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.zephyratravels.com/public/apple-touch-icon.avif",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://cdn.zephyratravels.com/public/images/home/hero/temple.avif",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Sri Lankan Tourism Homepage"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Packages",
+      "short_name": "Packages",
+      "description": "View travel packages",
+      "url": "/packages",
+      "icons": [
+        {
+          "src": "https://cdn.zephyratravels.com/public/logo.avif",
+          "sizes": "32x32"
+        }
+      ]
+    },
+    {
+      "name": "Partners",
+      "short_name": "Partners",
+      "description": "View travel partners",
+      "url": "/partners",
+      "icons": [
+        {
+          "src": "https://cdn.zephyratravels.com/public/logo.avif",
+          "sizes": "32x32"
+        }
+      ]
+    },
+    {
+      "name": "Blogs",
+      "short_name": "Blogs",
+      "description": "Read travel blogs and articles",
+      "url": "/blogs",
+      "icons": [
+        {
+          "src": "https://cdn.zephyratravels.com/public/logo.avif",
+          "sizes": "32x32"
+        }
+      ]
+    },
+    {
+      "name": "Gallery",
+      "short_name": "Gallery",
+      "description": "View Sri Lanka travel gallery",
+      "url": "/gallery",
+      "icons": [
+        {
+          "src": "https://cdn.zephyratravels.com/public/logo.avif",
+          "sizes": "32x32"
+        }
+      ]
+    },
+    {
+      "name": "About Us",
+      "short_name": "About",
+      "description": "Learn more about ZephyraTravels",
+      "url": "/about",
+      "icons": [
+        {
+          "src": "https://cdn.zephyratravels.com/public/logo.avif",
+          "sizes": "32x32"
+        }
+      ]
+    }
+  ]
+}

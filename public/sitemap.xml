@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://www.zephyratravels.com</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+
+        <image:image>
+            <image:loc>https://cdn.zephyratravels.com/prod/package/2025-11-14/17:23:32.jpg</image:loc>
+            <image:title>Top Rated Sri Lanka Tour Packages and Travel Deals</image:title>
+            <image:caption>Discover the best of Sri Lanka with customized tours from Zephyra Travels.</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://cdn.zephyratravels.com/prod/itinerary/2025-11-25/10:50:51.jpg</image:loc>
+            <image:title>Cultural Triangle Tours, Sigiriya and Dambulla</image:title>
+            <image:caption>Explore Sri Lanka's UNESCO World Heritage sites and ancient cultural marvels.</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://cdn.zephyratravels.com/prod/package/2025-11-27/16:16:45.jpg</image:loc>
+            <image:title>Luxury Sri Lanka Wildlife Safari in Yala National Park</image:title>
+            <image:caption>Book an exclusive wildlife experience to spot leopards and elephants in Yala.</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://cdn.zephyratravels.com/public/images/packages/travel-themes/luxury-retreat.webp
+            </image:loc>
+            <image:title>All-Inclusive Honeymoon Packages Sri Lanka</image:title>
+            <image:caption>Find the latest deals on our best-selling all-inclusive package tours.</image:caption>
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/packages</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/day-tour</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/partners</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/about</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/blogs</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/gallery</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/policies#terms-and-conditions</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/policies#privacy-policy</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/policies#refund-cancellation-policy</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.zephyratravels.com/policies#cookie-policy</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+</urlset>

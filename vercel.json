@@ -1,0 +1,21 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://www.zephyratravels.com/:path*",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "zephyratravels.com"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/robots.txt",
+      "destination": "/static/robots.txt"
+    }
+  ]
+}

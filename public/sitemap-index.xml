@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Main Static Pages Sitemap -->
+    <sitemap>
+        <loc>https://www.zephyratravels.com/sitemap.xml</loc>
+        <lastmod>2025-12-07</lastmod>
+    </sitemap>
+
+    <!-- Dynamic Packages Sitemap (Generated from API) -->
+    <sitemap>
+        <loc>https://www.zephyratravels.com/sitemap-packages.xml</loc>
+        <lastmod>2025-12-07</lastmod>
+    </sitemap>
+
+    <!-- Dynamic Blogs Sitemap (Generated from API) -->
+    <sitemap>
+        <loc>https://www.zephyratravels.com/sitemap-blogs.xml</loc>
+        <lastmod>2025-12-07</lastmod>
+    </sitemap>
+
+</sitemapindex>
